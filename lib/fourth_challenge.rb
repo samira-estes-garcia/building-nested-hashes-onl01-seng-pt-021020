@@ -12,8 +12,8 @@ def fourth_challenge
         },
         {
           name: "Mercutio",
-          age: "",
-          attitude: 
+          age: "18",
+          attitude: ""
         }
       ]
    }, 
